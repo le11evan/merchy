@@ -13,7 +13,7 @@ Link to live site: https://merchygroupeat.netlify.app/
 
 <h2> 1. Cloning and Running App :computer:</h2>
 
-You can download this app to your local using `git clone https://github.com/le11evan/merchy.git` command on your bash. Then open your terminal in the folder that you cloned and open your command line, use `npm install` command. This command will install all the dependencies that we used in the app. Then you can use 'npm start' command to run the app on your localhost:3000.
+You can download this app to your local using `git clone https://github.com/le11evan/merchy.git` command on your bash. Then open your terminal in the folder that you cloned and open your command line, use `npm install` command. This command will install all the dependencies that we used in the app. Then you can use `npm start` command to run the app on your localhost:3000.
 
 <h2> 2. About App :warning: </h2>
 
