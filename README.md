@@ -21,8 +21,8 @@ The website currently uses test API keys, so no payments are actually being proc
 
 <h2> 3. Dependencies :open_file_folder:</h2>
 
-In this app I've used **_Material UI_**, **_Commerce.js_**, **_Stripe.js_**, **_React-Router_** and **_React-Hooks_**.
-There are the commands that you can use to install these dependencies. (I've used yarn, you can use `npm install` instead of `yarn add` if you're using npm).
+We used **_Material UI_**, **_Commerce.js_**, **_Stripe.js_**, **_React-Router_** and **_React-Hooks_**.
+These are the commands that you can use to install these dependencies. (you can use `npm install` too.)
 
 - `npm install @material-ui/core @material-ui/icons`
 - `npm install @chec/commerce.js`
