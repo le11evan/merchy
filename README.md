@@ -1,6 +1,8 @@
 # Merchy (E-Commerce Website) [Group EAT]
 
-Merchy is a fully functional e-commerce react site, that allows a person to update products on commerce.js, and can commit payments using stripe. Our main goal was to create a site, where artists can have their own stores to sell merchandise. Originally our plan was to require a quiz that can be custom made by the artist before someone enters the store, to prevent bots and resellers, however we did not have enough time to implement that feature. But for the future, if we work on this project more, we plan on having multiple artist options and stores on the site, for now it just showcaes one store. 
+Merchy is a fully functional e-commerce react site, that allows a person to update products on commerce.js, and can commit payments using stripe. 
+
+Our main goal was to create a site, where artists can have their own stores to sell merchandise. Originally our plan was to require a quiz that can be custom made by the artist before someone enters the store, to prevent bots and resellers, however we did not have enough time to implement that feature. But for the future, if we work on this project more, we plan on having multiple artist options and stores on the site, for now it just showcaes one store. 
 
 Group Members: 
 Evan Le, le11evan@csu.fullerton.edu
