@@ -17,7 +17,7 @@ Link to live site: https://merchygroupeat.netlify.app/
 
 <h2> 0. Shortcomings :face_with_head_bandage: </h2>
 
-There's a few things we didn't have enough time to finish or add to your site. Here's a list:
+There's a few things we didn't have enough time to finish or add to our site. Here's a list:
 
 Login Feature
 - Login feature connected to a back-end database. We didn't get to fully finish our login feature and make it functional for now it is hard-coded in, and can login using email: admin@email.com and password: admin
