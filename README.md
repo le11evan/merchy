@@ -1,8 +1,12 @@
 # Merchy (E-Commerce Website) [Group EAT]
 
+<p align="center">
+<img src="https://github.com/le11evan/merchy/blob/master/images/logo.png" width="250" height="250" />
+ </p>
+
 Merchy is a fully functional e-commerce react site, that allows a person to update products on commerce.js, and can commit payments using stripe. 
 
-Our main goal was to create a site, where artists can have their own stores to sell merchandise. Originally our plan was to require a quiz that can be custom made by the artist before someone enters the store, to prevent bots and resellers, however we did not have enough time to implement that feature. But for the future, if we work on this project more, we plan on having multiple artist options and stores on the site, for now it just showcaes one store. 
+Our main goal with Merchy was to create a site, where artists can have their own stores to sell merchandise. 
 
 Group Members: 
 Evan Le, le11evan@csu.fullerton.edu
@@ -11,20 +15,20 @@ Thomas Phan, tummeito@csu.fullerton.edu
 
 Link to live site: https://merchygroupeat.netlify.app/
 
-<h2> * Shortcomings :sad:
+<h2> 0. Shortcomings :face_with_head_bandage: </h2>
 
 There's a few things we didn't have enough time to finish or add to your site. Here's a list:
 
-<h1> Login Feature
-Login feature connected to a back-end database. We didn't get to fully finish our login feature and make it functional for now it is hard-coded in, and can login using email: admin@email.com and password: admin
+Login Feature
+- Login feature connected to a back-end database. We didn't get to fully finish our login feature and make it functional for now it is hard-coded in, and can login using email: admin@email.com and password: admin
 
-<h1> Quiz Feature
-We wanted to requrie a quiz before entering the store page. This can maybe prevent bots and resellers.
+Quiz Feature
+- We wanted to requrie a quiz before entering the store page. This can maybe prevent bots and resellers.
 
-<h1> Multiple Artist Stores.
-We also wanted to have a page, right have you login, where people can choose from various artists, and enter different individual artist's stores. 
+Multiple Artist Stores.
+- We also wanted to have a page, right have you login, where people can choose from various artists, and enter different individual artist's stores. 
 
-<h2> 1. Cloning and Running App :computer:</h2>
+<h2> 1. Cloning and Running App :computer: </h2>
 
 You can download this app to your local using `git clone https://github.com/le11evan/merchy.git` command on your bash. Then open your terminal in the folder that you cloned and open your command line, use `npm install` command. This command will install all the dependencies that we used in the app. Then you can use `npm start` command to run the app on your localhost:3000.
 
