@@ -1,36 +1,8 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/styles';
-import { CssBaseline, IconButton } from '@material-ui/core';
-import bg from '../../assets/bg.jpg'
+import { CssBaseline, Button } from '@material-ui/core';
 import merchy from '../../assets/merchy.png'
-
-const useStyles = makeStyles((theme) => ({
-    background: {
-        minHeight: '100vh',
-        backgroundImage: `url(${bg})`,
-        backgroundColor: 'transparent',
-        backgroundPosition: 'center',
-        backgroundSize: 'cover'
-    },
-    mainTitle: {
-        color: '#fff',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        textAlign: 'center',
-        height: '100vh'
-    },
-    imageButton: {
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        textAlign: 'center',
-        width: '200px',
-        height: '100px',
-        background: 'none'
-        
-    },
-}))
+import useStyles from './Landingstyles/styles'
+import {Link} from "react-router-dom";
 
 const Landingpage = () => {
     const classes = useStyles();
@@ -41,7 +13,7 @@ const Landingpage = () => {
             <h1>
                 Welcome to <br />
                 <div className={classes.imageButton}>
-                    <button style={{background:'transparent', border: 'none'}}><img style={{width: '50vh', height: '50vh'}}src={merchy} alt="Merchy logo"/></button>
+                    <Button component={Link} to="/login" style={{background:'transparent', border: 'none'}}><img style={{width: '50vh', height: '50vh'}}src={merchy} alt="Merchy logo"/></Button>
                 </div>
             </h1>
         </div>
@@ -49,4 +21,4 @@ const Landingpage = () => {
     )
 }
 
-export default Landingpage
+export default Landingpage;
