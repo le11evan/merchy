@@ -13,14 +13,21 @@ Evan Le, le11evan@csu.fullerton.edu
 Aren Lizardo, arenlaure@csu.fullerton.edu
 Thomas Phan, tummeito@csu.fullerton.edu
 
-Link to live site: https://merchygroupeat.netlify.app/
+Link to live site: https://merchygroupeat254.netlify.app/
+
+Link to live site (without landing page/login page): https://merchygroupeat.netlify.app/
 
 <h2> 0. Shortcomings :face_with_head_bandage: </h2>
 
 There's a few things we didn't have enough time to finish or add to our site. Here's a list:
 
+Bugs
+- Cart doesn't show up on product page, but it shows up on landing/home page.
+
 Login Feature
-- Login feature connected to a back-end database. We didn't get to fully finish our login feature and make it functional for now it is hard-coded in, and can login using email: admin@email.com and password: admin
+- We wanted to connect our login feature to a back-end database. We didn't get to fully finish our login feature and make it functional for now it is hard-coded in, and can login using email: `admin@email.com` and password: `admin`. 
+
+- We also never added a feature to have users log out, ideally, we want it to where after the users login, they will be taken to the store page. Once they logout, they will be taken to the login/homepage again.
 
 Quiz Feature
 - We wanted to requrie a quiz before entering the store page. This can maybe prevent bots and resellers.
