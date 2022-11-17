@@ -11,6 +11,19 @@ Thomas Phan, tummeito@csu.fullerton.edu
 
 Link to live site: https://merchygroupeat.netlify.app/
 
+<h2> * Shortcomings :sad:
+
+There's a few things we didn't have enough time to finish or add to your site. Here's a list:
+
+<h1> Login Feature
+Login feature connected to a back-end database. We didn't get to fully finish our login feature and make it functional for now it is hard-coded in, and can login using email: admin@email.com and password: admin
+
+<h1> Quiz Feature
+We wanted to requrie a quiz before entering the store page. This can maybe prevent bots and resellers.
+
+<h1> Multiple Artist Stores.
+We also wanted to have a page, right have you login, where people can choose from various artists, and enter different individual artist's stores. 
+
 <h2> 1. Cloning and Running App :computer:</h2>
 
 You can download this app to your local using `git clone https://github.com/le11evan/merchy.git` command on your bash. Then open your terminal in the folder that you cloned and open your command line, use `npm install` command. This command will install all the dependencies that we used in the app. Then you can use `npm start` command to run the app on your localhost:3000.
