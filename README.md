@@ -1,7 +1,7 @@
 # Merchy (E-Commerce Website) [Group EAT]
 
 <p align="center">
-<img src="https://github.com/le11evan/merchy/blob/master/images/logo.png" width="250" height="250" />
+<img src="https://github.com/le11evan/merchy/blob/master/src/assets/logo.png" width="250" height="250" />
  </p>
 
 Merchy is a fully functional e-commerce react site, that allows a person to update products on commerce.js, and can commit payments using stripe. 
